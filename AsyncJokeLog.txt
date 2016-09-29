@@ -1,0 +1,458 @@
+Single Server Implementation
+
+
+In the admin looper thread
+
+
+Mike's Async Server 1.8 starting up, listening at port 4250.
+
+Establishing connection port at 4250
+
+Looking up Joke C for Mike
+Looking up Joke A for Mike
+Looking up Joke D for Mike
+Looking up Proverb C for Mike
+Looking up Proverb E for Mike
+Looking up Proverb D for Mike
+Looking up Proverb B for Mike
+Looking up Proverb A for Mike
+Looking up Joke B for Mike
+Looking up Joke E for Mike
+Looking up Joke A for Mike
+Looking up Joke D for Mike
+Looking up Joke C for Mike
+Looking up Joke C for Mike
+Looking up Joke D for Mike
+Looking up Joke A for Mike
+Looking up Proverb E for Mike
+Looking up Proverb B for Mike
+Looking up Proverb C for Mike
+Looking up Joke B for Mike
+Looking up Joke E for Mike
+Looking up Joke B for Mike
+The server is in maintenance mode.
+The server is in maintenance mode.
+The server is in maintenance mode.
+Looking up Joke E for Mike
+Looking up Joke B for Mike
+Looking up Joke C for Mike
+Looking up Proverb E for Mike
+Looking up Proverb B for Mike
+Looking up Joke A for Mike
+Looking up Joke D for Mike
+Looking up Joke D for Mike
+The server is in maintenance mode.
+The server is in maintenance mode.
+The server is in maintenance mode.
+Looking up Proverb E for Mike
+Looking up Proverb B for Mike
+Looking up Proverb C for Mike
+Looking up Proverb A for Mike
+Looking up Joke E for Mike
+Looking up Joke B for Mike
+Looking up Joke A for Mike
+The server is in maintenance mode.
+The server is in maintenance mode.
+
+
+
+
+
+Mike's Async Joke Client, 1.8.
+
+Using server: localhost, Port: 4250
+
+Enter your name or quit to end program: Mike
+
+Enter a string of number to add up: 46 13 56 79
+Your total is: 194
+
+Enter a string of number to add up: 132 64 87 1
+Your total is: 284
+
+Enter a string of number to add up: 31 654 9713 111 1 13
+Your total is: 10523
+
+Enter a string of number to add up: 13 564 8 13
+Your total is: 598
+
+Enter a string of number to add up: 64 13 6 79 813
+Your total is: 975
+
+Enter a string of number to add up: 135497 13 56 7
+Your total is: 135573
+
+Enter a string of number to add up: 13 564 97
+Your total is: 674
+
+Enter a string of number to add up: 46 13 578 91
+Your total is: 728
+
+Press enter to hear a joke
+
+Looking up Joke C for Mike
+Why do Java developers wear glasses? Because they can't C#
+
+Press enter to hear a joke
+
+Looking up Joke A for Mike
+A SEO couple had twins. For the first time they are happy with duplicate content
+
+
+Press enter to hear a joke
+
+Looking up Joke D for Mike
+There's a band called 1023MB. They haven't had any gigs yet.
+
+Press enter to hear a proverb
+
+Looking up Proverb C for Mike
+You cannot get to the top by sitting on your bottom.
+
+Press enter to hear a proverb
+
+Looking up Proverb E for Mike
+Drop by drop - a whole lake becomes.
+
+Press enter to hear a proverb
+
+Looking up Proverb D for Mike
+Tomorrow is often the busiest day of the week.
+
+Press enter to hear a proverb
+
+Looking up Proverb B for Mike
+A ship in the harbor is safe, but that is not what ships are built for.
+
+Press enter to hear a proverb
+
+Looking up Proverb A for Mike
+Experience is a comb which nature gives us when we are bald.
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a joke
+
+Looking up Joke B for Mike
+In order to understand recursion you must first understand recursion.
+
+Press enter to hear a joke
+
+Looking up Joke E for Mike
+What do you call 8 hobbits? A hobbyte
+
+Press enter to hear a joke
+
+Looking up Joke A for Mike
+A SEO couple had twins. For the first time they are happy with duplicate content
+
+
+Press enter to hear a joke
+
+Looking up Joke D for Mike
+There's a band called 1023MB. They haven't had any gigs yet.
+
+Press enter to hear a joke
+
+Looking up Joke C for Mike
+Why do Java developers wear glasses? Because they can't C#
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a joke
+
+Looking up Joke C for Mike
+Why do Java developers wear glasses? Because they can't C#
+
+Press enter to hear a joke
+
+Looking up Joke D for Mike
+There's a band called 1023MB. They haven't had any gigs yet.
+
+Press enter to hear a joke
+
+Looking up Joke A for Mike
+A SEO couple had twins. For the first time they are happy with duplicate content
+
+
+Press enter to hear a proverb
+
+Looking up Proverb E for Mike
+Drop by drop - a whole lake becomes.
+
+Press enter to hear a proverb
+
+Looking up Proverb B for Mike
+A ship in the harbor is safe, but that is not what ships are built for.
+
+Press enter to hear a proverb
+
+Looking up Proverb C for Mike
+You cannot get to the top by sitting on your bottom.
+
+Press enter to hear a joke
+
+Looking up Joke B for Mike
+In order to understand recursion you must first understand recursion.
+
+Press enter to hear a joke
+
+Looking up Joke E for Mike
+What do you call 8 hobbits? A hobbyte
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a joke
+
+Looking up Joke B for Mike
+In order to understand recursion you must first understand recursion.
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a joke
+
+Looking up Joke E for Mike
+What do you call 8 hobbits? A hobbyte
+
+Press enter to hear a joke
+
+Looking up Joke B for Mike
+In order to understand recursion you must first understand recursion.
+
+Press enter to hear a joke
+
+Looking up Joke C for Mike
+Why do Java developers wear glasses? Because they can't C#
+
+Press enter to hear a proverb
+
+Looking up Proverb E for Mike
+Drop by drop - a whole lake becomes.
+
+Press enter to hear a proverb
+
+Looking up Proverb B for Mike
+A ship in the harbor is safe, but that is not what ships are built for.
+
+Press enter to hear a joke
+
+Looking up Joke A for Mike
+A SEO couple had twins. For the first time they are happy with duplicate content
+
+
+Press enter to hear a joke
+
+Looking up Joke D for Mike
+There's a band called 1023MB. They haven't had any gigs yet.
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a joke
+
+Looking up Joke D for Mike
+There's a band called 1023MB. They haven't had any gigs yet.
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+Press enter to hear a proverb
+
+Looking up Proverb E for Mike
+Drop by drop - a whole lake becomes.
+
+Press enter to hear a proverb
+
+Looking up Proverb B for Mike
+A ship in the harbor is safe, but that is not what ships are built for.
+
+Press enter to hear a proverb
+
+Looking up Proverb C for Mike
+You cannot get to the top by sitting on your bottom.
+
+Press enter to hear a proverb
+
+Looking up Proverb A for Mike
+Experience is a comb which nature gives us when we are bald.
+
+Press enter to hear a joke
+
+Looking up Joke E for Mike
+What do you call 8 hobbits? A hobbyte
+
+Press enter to hear a joke
+
+Looking up Joke B for Mike
+In order to understand recursion you must first understand recursion.
+
+Press enter to hear a joke
+
+Looking up Joke A for Mike
+A SEO couple had twins. For the first time they are happy with duplicate content
+
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+The server is temporarily unavailable -- check-back shortly.
+
+
+Press enter to continue or quit to end program:
+
+
+Mike's Joke Client Administration, 1.8.
+
+Using server: localhost, Port: 4565
+Welcome to Mike's Clien Administration.
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+b
+The Server is now set to Proverb Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+a
+The Server is now set to Joke Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+b
+The Server is now set to Proverb Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+a
+The Server is now set to Joke Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+c
+The Server is now set to Maintenance Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+a
+The Server is now set to Joke Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+b
+The Server is now set to Proverb Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+a
+The Server is now set to Joke Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+c
+The Server is now set to Maintenance Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+b
+The Server is now set to Proverb Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+a
+The Server is now set to Joke Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+c
+The Server is now set to Maintenance Mode
+
+What mode would you like the server to be in?
+(A) - Joke Mode
+(B) - Proverb mode
+(C) - Maintenace Mode
+(D) - Quit
+
+
+
+
+Mulitple Server Implementation
+
+
